@@ -1,2 +1,2 @@
-# github.io
+# EG
 A page for my projects
