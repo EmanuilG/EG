@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Github Page
 
-You can use the [editor on GitHub](https://github.com/EmanuilG/EG/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My projects: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[N-Brief](https://emanuilg.github.io/N-Brief/)
 
-### Markdown
+: A single-page app to compose a neurological discharge letter in German.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Stroke_Report_EG](https://emanuilg.github.io/Stroke_Report_EG/)
 
-```markdown
-Syntax highlighted code block
+: Get data on stroke patients of a German stroke unit as csv-files, generate a customizable statistical report.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmanuilG/EG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
