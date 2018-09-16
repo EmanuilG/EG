@@ -1,6 +1,4 @@
-## Welcome to my Github Page
-
-My projects: 
+## Welcome to my webpage
 
 [N-Brief](https://emanuilg.github.io/N-Brief/)
 
