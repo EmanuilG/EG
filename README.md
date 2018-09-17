@@ -11,4 +11,4 @@
 
 A relative file link might be:
 
-[test1][./docs/test1.md]
+[test1][docs/test1.md]
