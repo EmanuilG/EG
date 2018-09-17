@@ -9,4 +9,4 @@
 : Get data on stroke patients of a German stroke unit as csv-files, generate a customizable statistical report.
 
 
-[test1](test1.md)
+[test1](test1)
