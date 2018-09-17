@@ -8,7 +8,3 @@
 
 : Get data on stroke patients of a German stroke unit as csv-files, generate a customizable statistical report.
 
-
-A relative file link might be:
-
-[test1][docs/test1.md]
