@@ -1,6 +1,6 @@
 ## Welcome to my webpage
 
-[NBrief_MVZ](https://emanuilg.github.io/NBrief_MVZ/)
+[NBrief_MVZ](https://github.com/EmanuilG/NBrief_MVZ)
 
 : A single-page app with texts for a German neurology outpatient department.
 
