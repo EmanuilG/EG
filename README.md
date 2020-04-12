@@ -2,7 +2,7 @@
 
 [NBrief_MVZ](https://emanuilg.github.io/NBrief_MVZ/)
 
-: A single-page app to compose a neurological discharge letter in German.
+: A single-page app with texts for a German neurology outpatient department.
 
 [N-Brief](https://emanuilg.github.io/N-Brief/)
 
