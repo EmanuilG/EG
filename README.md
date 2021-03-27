@@ -11,5 +11,3 @@
 [Stroke_Report_EG](https://emanuilg.github.io/Stroke_Report_EG/)
 
 : Get data on stroke patients of a German stroke unit as csv-files, generate a customizable statistical report.
-
-[NB1](https://emanuilg.github.io/NB1/)
