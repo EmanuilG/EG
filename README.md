@@ -1,6 +1,6 @@
 ## Welcome to my webpage
 
-[NBrief_MVZ](https://emanuilg.github.io/NBrief_MVZ)
+[NB1](https://emanuilg.github.io/NB1/)
 
 : A single-page app with texts for a German neurology outpatient department.
 
@@ -13,5 +13,3 @@
 : Get data on stroke patients of a German stroke unit as csv-files, generate a customizable statistical report.
 
 [NB1](https://emanuilg.github.io/NB1/)
-
-: A test repo
